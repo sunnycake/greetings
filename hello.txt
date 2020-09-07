@@ -1,5 +1,6 @@
 "hello" 
 "bonjour" 
 "hola" 
-hallo
-guten tag
+"hallo"
+"guten tag"
+"nyob zoo" 
